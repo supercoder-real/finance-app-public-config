@@ -7,5 +7,10 @@
   "categoryPlaceholder": "Category",
   "limitPlaceholder": "Monthly limit",
   "addBudget": "Add budget",
-  "categoriesTitle": "Budget categories"
+  "categoriesTitle": "Budget categories",
+  "defaultCategories": {
+    "groceries": "Groceries",
+    "transport": "Transport",
+    "entertainment": "Entertainment"
+  }
 }

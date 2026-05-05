@@ -7,5 +7,10 @@
   "categoryPlaceholder": "Categoria",
   "limitPlaceholder": "Limite mensile",
   "addBudget": "Aggiungi budget",
-  "categoriesTitle": "Categorie budget"
+  "categoriesTitle": "Categorie budget",
+  "defaultCategories": {
+    "groceries": "Spesa alimentare",
+    "transport": "Trasporti",
+    "entertainment": "Intrattenimento"
+  }
 }
