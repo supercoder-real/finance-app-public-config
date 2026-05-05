@@ -1,0 +1,24 @@
+{
+  "menu": "Menu",
+  "dashboard": "Dashboard",
+  "transactions": "Transazioni",
+  "recurring": "Ricorrenti",
+  "accounts": "Conti",
+  "budgets": "Budget",
+  "investments": "Investimenti",
+  "fire": "Piano FIRE",
+  "reports": "Report",
+  "settings": "Impostazioni",
+  "signOut": "Esci",
+  "pageTitles": {
+    "/": "Dashboard",
+    "/transactions": "Transazioni",
+    "/recurring": "Spese ricorrenti",
+    "/accounts": "Conti",
+    "/budgets": "Budget",
+    "/investments": "Investimenti",
+    "/fire": "Piano FIRE",
+    "/reports": "Report",
+    "/settings": "Impostazioni"
+  }
+}

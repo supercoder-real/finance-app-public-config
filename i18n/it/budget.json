@@ -1,0 +1,11 @@
+{
+  "overviewTitle": "Panoramica budget mensile",
+  "limitLabel": "Limite budget",
+  "spentLabel": "Speso",
+  "remainingLabel": "Rimanente",
+  "createTitle": "Crea budget per categoria",
+  "categoryPlaceholder": "Categoria",
+  "limitPlaceholder": "Limite mensile",
+  "addBudget": "Aggiungi budget",
+  "categoriesTitle": "Categorie budget"
+}

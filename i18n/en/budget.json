@@ -1,0 +1,11 @@
+{
+  "overviewTitle": "Monthly budget overview",
+  "limitLabel": "Budget limit",
+  "spentLabel": "Spent",
+  "remainingLabel": "Remaining",
+  "createTitle": "Create category budget",
+  "categoryPlaceholder": "Category",
+  "limitPlaceholder": "Monthly limit",
+  "addBudget": "Add budget",
+  "categoriesTitle": "Budget categories"
+}

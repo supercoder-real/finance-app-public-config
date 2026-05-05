@@ -1,0 +1,14 @@
+{
+  "pageTitle": "Settings",
+  "language": {
+    "sectionTitle": "Language",
+    "label": "Display language",
+    "en": "English",
+    "it": "Italian"
+  },
+  "theme": {
+    "sectionTitle": "Theme",
+    "label": "Color theme",
+    "comingSoon": "Theme customization coming soon."
+  }
+}

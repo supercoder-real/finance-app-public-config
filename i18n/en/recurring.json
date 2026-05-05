@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Recurring expenses",
+  "pageSubtitle": "Track subscriptions and fixed costs. Monthly equivalent updates automatically.",
+  "monthlyFixedCost": "Monthly fixed cost",
+  "itemCount": "Items",
+  "addTitle": "Add recurring expense",
+  "namePlaceholder": "Name (e.g. Spotify)",
+  "categoryPlaceholder": "Category",
+  "amountPlaceholder": "Amount",
+  "addItem": "Add item",
+  "currentItemsTitle": "Current items",
+  "colName": "Name",
+  "colCategory": "Category",
+  "colFrequency": "Frequency",
+  "colAmount": "Amount",
+  "colMonthlyEq": "Monthly eq.",
+  "remove": "Remove",
+  "frequency": {
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "yearly": "Yearly"
+  }
+}

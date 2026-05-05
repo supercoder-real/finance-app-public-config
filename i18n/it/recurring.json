@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Spese ricorrenti",
+  "pageSubtitle": "Tieni traccia di abbonamenti e costi fissi. L'equivalente mensile si aggiorna automaticamente.",
+  "monthlyFixedCost": "Costo fisso mensile",
+  "itemCount": "Voci",
+  "addTitle": "Aggiungi spesa ricorrente",
+  "namePlaceholder": "Nome (es. Spotify)",
+  "categoryPlaceholder": "Categoria",
+  "amountPlaceholder": "Importo",
+  "addItem": "Aggiungi voce",
+  "currentItemsTitle": "Voci correnti",
+  "colName": "Nome",
+  "colCategory": "Categoria",
+  "colFrequency": "Frequenza",
+  "colAmount": "Importo",
+  "colMonthlyEq": "Eq. mensile",
+  "remove": "Rimuovi",
+  "frequency": {
+    "weekly": "Settimanale",
+    "monthly": "Mensile",
+    "yearly": "Annuale"
+  }
+}

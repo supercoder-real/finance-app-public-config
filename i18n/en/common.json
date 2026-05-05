@@ -1,0 +1,11 @@
+{
+  "appName": "FinanceApp",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "remove": "Remove",
+  "add": "Add",
+  "edit": "Edit",
+  "loading": "Loading…",
+  "currency": "€"
+}

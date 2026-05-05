@@ -1,0 +1,14 @@
+{
+  "pageTitle": "Impostazioni",
+  "language": {
+    "sectionTitle": "Lingua",
+    "label": "Lingua di visualizzazione",
+    "en": "Inglese",
+    "it": "Italiano"
+  },
+  "theme": {
+    "sectionTitle": "Tema",
+    "label": "Tema colori",
+    "comingSoon": "Personalizzazione del tema disponibile a breve."
+  }
+}

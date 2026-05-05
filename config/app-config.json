@@ -1,0 +1,8 @@
+{
+  "supportedLanguages": ["en", "it"],
+  "defaultLanguage": "en",
+  "languageStorageKey": "i18n_language",
+  "supportedThemes": ["system", "light", "dark"],
+  "defaultTheme": "system",
+  "themeStorageKey": "finance_theme"
+}

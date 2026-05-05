@@ -1,0 +1,24 @@
+{
+  "menu": "Menu",
+  "dashboard": "Dashboard",
+  "transactions": "Transactions",
+  "recurring": "Recurring",
+  "accounts": "Accounts",
+  "budgets": "Budgets",
+  "investments": "Investments",
+  "fire": "FIRE Planner",
+  "reports": "Reports",
+  "settings": "Settings",
+  "signOut": "Sign out",
+  "pageTitles": {
+    "/": "Dashboard",
+    "/transactions": "Transactions",
+    "/recurring": "Recurring expenses",
+    "/accounts": "Accounts",
+    "/budgets": "Budgets",
+    "/investments": "Investments",
+    "/fire": "FIRE Planner",
+    "/reports": "Reports",
+    "/settings": "Settings"
+  }
+}
