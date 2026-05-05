@@ -15,6 +15,7 @@
   "colAmount": "Amount",
   "colMonthlyEq": "Monthly eq.",
   "remove": "Remove",
+  "apiNotAvailable": "Recurring expenses API is not available yet.",
   "frequency": {
     "weekly": "Weekly",
     "monthly": "Monthly",

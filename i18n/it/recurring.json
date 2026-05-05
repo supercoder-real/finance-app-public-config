@@ -15,6 +15,7 @@
   "colAmount": "Importo",
   "colMonthlyEq": "Eq. mensile",
   "remove": "Rimuovi",
+  "apiNotAvailable": "L'API delle spese ricorrenti non è ancora disponibile.",
   "frequency": {
     "weekly": "Settimanale",
     "monthly": "Mensile",
