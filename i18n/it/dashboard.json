@@ -1,0 +1,16 @@
+{
+  "netWorth": "Patrimonio netto",
+  "monthlyIncome": "Entrate mensili",
+  "monthlyExpenses": "Uscite mensili",
+  "savingsRate": "Tasso di risparmio",
+  "recentTransactions": "Transazioni recenti",
+  "noTransactions": "Nessuna transazione ancora.",
+  "viewAll": "Vedi tutte le transazioni",
+  "income": "Entrata",
+  "expense": "Uscita",
+  "accountsSummary": "Conti",
+  "totalBalance": "Saldo totale",
+  "budgetHealth": "Salute del budget",
+  "spent": "Speso",
+  "of": "di"
+}

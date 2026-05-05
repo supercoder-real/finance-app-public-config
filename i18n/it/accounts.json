@@ -1,0 +1,21 @@
+{
+  "pageTitle": "Conti",
+  "pageSubtitle": "I tuoi conti finanziari collegati.",
+  "totalBalance": "Saldo totale",
+  "accountCount": "Conti",
+  "addTitle": "Aggiungi conto",
+  "namePlaceholder": "Nome conto",
+  "typePlaceholder": "Tipo",
+  "balancePlaceholder": "Saldo attuale",
+  "addAccount": "Aggiungi conto",
+  "noAccounts": "Nessun conto ancora. Aggiungine uno sopra.",
+  "colName": "Nome",
+  "colType": "Tipo",
+  "colBalance": "Saldo",
+  "typeChecking": "Conto corrente",
+  "typeSavings": "Risparmio",
+  "typeInvestment": "Investimento",
+  "typeCash": "Contanti",
+  "typeOther": "Altro",
+  "loadError": "Errore nel caricamento dei conti."
+}

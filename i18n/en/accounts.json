@@ -1,0 +1,21 @@
+{
+  "pageTitle": "Accounts",
+  "pageSubtitle": "Your linked financial accounts.",
+  "totalBalance": "Total Balance",
+  "accountCount": "Accounts",
+  "addTitle": "Add account",
+  "namePlaceholder": "Account name",
+  "typePlaceholder": "Type",
+  "balancePlaceholder": "Current balance",
+  "addAccount": "Add account",
+  "noAccounts": "No accounts yet. Add one above.",
+  "colName": "Name",
+  "colType": "Type",
+  "colBalance": "Balance",
+  "typeChecking": "Checking",
+  "typeSavings": "Savings",
+  "typeInvestment": "Investment",
+  "typeCash": "Cash",
+  "typeOther": "Other",
+  "loadError": "Failed to load accounts."
+}

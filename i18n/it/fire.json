@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Piano FIRE",
+  "pageSubtitle": "Calcola il tuo numero per l'Indipendenza Finanziaria / Pensionamento Anticipato.",
+  "calculatorTitle": "I tuoi dati",
+  "currentAge": "Età attuale",
+  "targetAge": "Età target di pensionamento",
+  "currentSavings": "Risparmi attuali (€)",
+  "annualSavings": "Risparmio annuale (€)",
+  "expectedReturn": "Rendimento annuo atteso (%)",
+  "annualExpenses": "Spese annuali in pensione (€)",
+  "calculate": "Calcola",
+  "resultsTitle": "Risultati",
+  "fireNumber": "Numero FIRE",
+  "projectedSavings": "Risparmi proiettati all'età target",
+  "yearsToFire": "Anni al FIRE",
+  "onTrack": "Sei sulla buona strada per raggiungere il FIRE all'età di {{age}} anni.",
+  "notOnTrack": "Al tasso di risparmio attuale non raggiungerai il FIRE entro i {{targetAge}} anni. Considera di aumentare i risparmi o di rivedere il tuo obiettivo.",
+  "safeWithdrawalRate": "Tasso di prelievo sicuro (4%)",
+  "hint": "Il numero FIRE è calcolato come Spese Annuali ÷ 4% (regola del 25×).",
+  "agePlaceholder": "Età",
+  "amountPlaceholder": "Importo in €",
+  "percentPlaceholder": "es. 7"
+}

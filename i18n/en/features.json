@@ -1,26 +1,8 @@
 {
-  "dashboard": {
-    "title": "Dashboard",
-    "comingSoon": "Dashboard content coming soon."
-  },
-  "transactions": {
-    "title": "Transactions",
-    "comingSoon": "Transaction tracking UI coming soon."
-  },
-  "accounts": {
-    "title": "Accounts",
-    "comingSoon": "Accounts management coming soon."
-  },
-  "investments": {
-    "title": "Investments",
-    "comingSoon": "Investments area coming soon."
-  },
-  "reports": {
-    "title": "Reports",
-    "comingSoon": "Reporting tools coming soon."
-  },
-  "fire": {
-    "title": "FIRE Planner",
-    "comingSoon": "FIRE planning tools coming soon."
-  }
+  "dashboard": { "title": "Dashboard" },
+  "transactions": { "title": "Transactions" },
+  "accounts": { "title": "Accounts" },
+  "investments": { "title": "Investments" },
+  "reports": { "title": "Reports" },
+  "fire": { "title": "FIRE Planner" }
 }

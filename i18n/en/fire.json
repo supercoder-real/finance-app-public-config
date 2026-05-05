@@ -1,0 +1,23 @@
+{
+  "pageTitle": "FIRE Planner",
+  "pageSubtitle": "Calculate your Financial Independence / Retire Early number.",
+  "calculatorTitle": "Your inputs",
+  "currentAge": "Current age",
+  "targetAge": "Target retirement age",
+  "currentSavings": "Current savings (€)",
+  "annualSavings": "Annual savings (€)",
+  "expectedReturn": "Expected annual return (%)",
+  "annualExpenses": "Annual expenses in retirement (€)",
+  "calculate": "Calculate",
+  "resultsTitle": "Results",
+  "fireNumber": "FIRE Number",
+  "projectedSavings": "Projected savings at target age",
+  "yearsToFire": "Years to FIRE",
+  "onTrack": "You are on track to reach FIRE by age {{age}}.",
+  "notOnTrack": "At your current savings rate you will not reach FIRE by age {{targetAge}}. Consider increasing savings or adjusting your target.",
+  "safeWithdrawalRate": "Safe Withdrawal Rate (4%)",
+  "hint": "The FIRE number is calculated as Annual Expenses ÷ 4% (the 25× rule).",
+  "agePlaceholder": "Age",
+  "amountPlaceholder": "Amount in €",
+  "percentPlaceholder": "e.g. 7"
+}

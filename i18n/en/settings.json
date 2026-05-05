@@ -9,6 +9,8 @@
   "theme": {
     "sectionTitle": "Theme",
     "label": "Color theme",
-    "comingSoon": "Theme customization coming soon."
+    "system": "System default",
+    "light": "Light",
+    "dark": "Dark"
   }
 }

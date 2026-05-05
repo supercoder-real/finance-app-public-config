@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Investments",
+  "pageSubtitle": "Track your investment portfolio.",
+  "portfolioValue": "Portfolio Value",
+  "totalGain": "Total Gain/Loss",
+  "positions": "Positions",
+  "addTitle": "Add position",
+  "tickerPlaceholder": "Ticker (e.g. AAPL)",
+  "namePlaceholder": "Name",
+  "sharesPlaceholder": "Shares",
+  "avgCostPlaceholder": "Avg cost / share",
+  "currentPricePlaceholder": "Current price / share",
+  "addPosition": "Add position",
+  "noPositions": "No positions yet. Add one above.",
+  "colTicker": "Ticker",
+  "colName": "Name",
+  "colShares": "Shares",
+  "colAvgCost": "Avg Cost",
+  "colCurrentPrice": "Price",
+  "colValue": "Value",
+  "colGainLoss": "Gain / Loss",
+  "loadError": "Failed to load investments."
+}

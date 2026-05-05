@@ -1,0 +1,16 @@
+{
+  "netWorth": "Net Worth",
+  "monthlyIncome": "Monthly Income",
+  "monthlyExpenses": "Monthly Expenses",
+  "savingsRate": "Savings Rate",
+  "recentTransactions": "Recent Transactions",
+  "noTransactions": "No transactions yet.",
+  "viewAll": "View all transactions",
+  "income": "Income",
+  "expense": "Expense",
+  "accountsSummary": "Accounts",
+  "totalBalance": "Total Balance",
+  "budgetHealth": "Budget Health",
+  "spent": "Spent",
+  "of": "of"
+}

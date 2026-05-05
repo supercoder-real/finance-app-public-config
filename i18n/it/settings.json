@@ -9,6 +9,8 @@
   "theme": {
     "sectionTitle": "Tema",
     "label": "Tema colori",
-    "comingSoon": "Personalizzazione del tema disponibile a breve."
+    "system": "Predefinito di sistema",
+    "light": "Chiaro",
+    "dark": "Scuro"
   }
 }

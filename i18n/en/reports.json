@@ -1,0 +1,29 @@
+{
+  "pageTitle": "Reports",
+  "pageSubtitle": "Monthly financial overview and category breakdown.",
+  "periodLabel": "Period",
+  "monthlyTitle": "Monthly Summary",
+  "income": "Income",
+  "expenses": "Expenses",
+  "savings": "Savings",
+  "categoryTitle": "Expenses by Category",
+  "noData": "No data available for this period.",
+  "loadError": "Failed to load report data.",
+  "months": {
+    "1": "January",
+    "2": "February",
+    "3": "March",
+    "4": "April",
+    "5": "May",
+    "6": "June",
+    "7": "July",
+    "8": "August",
+    "9": "September",
+    "10": "October",
+    "11": "November",
+    "12": "December"
+  },
+  "colCategory": "Category",
+  "colAmount": "Amount",
+  "colShare": "Share"
+}

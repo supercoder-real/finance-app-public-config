@@ -1,0 +1,23 @@
+{
+  "pageTitle": "Investimenti",
+  "pageSubtitle": "Monitora il tuo portafoglio investimenti.",
+  "portfolioValue": "Valore portafoglio",
+  "totalGain": "Guadagno/Perdita totale",
+  "positions": "Posizioni",
+  "addTitle": "Aggiungi posizione",
+  "tickerPlaceholder": "Ticker (es. AAPL)",
+  "namePlaceholder": "Nome",
+  "sharesPlaceholder": "Azioni",
+  "avgCostPlaceholder": "Costo medio / azione",
+  "currentPricePlaceholder": "Prezzo attuale / azione",
+  "addPosition": "Aggiungi posizione",
+  "noPositions": "Nessuna posizione ancora. Aggiungine una sopra.",
+  "colTicker": "Ticker",
+  "colName": "Nome",
+  "colShares": "Azioni",
+  "colAvgCost": "Costo medio",
+  "colCurrentPrice": "Prezzo",
+  "colValue": "Valore",
+  "colGainLoss": "Guadagno / Perdita",
+  "loadError": "Errore nel caricamento degli investimenti."
+}
