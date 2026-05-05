@@ -1,0 +1,26 @@
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "comingSoon": "Contenuti dashboard in arrivo."
+  },
+  "transactions": {
+    "title": "Transazioni",
+    "comingSoon": "Interfaccia tracciamento transazioni in arrivo."
+  },
+  "accounts": {
+    "title": "Conti",
+    "comingSoon": "Gestione conti in arrivo."
+  },
+  "investments": {
+    "title": "Investimenti",
+    "comingSoon": "Area investimenti in arrivo."
+  },
+  "reports": {
+    "title": "Report",
+    "comingSoon": "Strumenti reportistica in arrivo."
+  },
+  "fire": {
+    "title": "Piano FIRE",
+    "comingSoon": "Strumenti pianificazione FIRE in arrivo."
+  }
+}
